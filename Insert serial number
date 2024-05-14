@@ -7,4 +7,5 @@ ActiveCell.Value = i
 ActiveCell.Offset(1, 0).Activate
 Next i
 Last:Exit Sub
+msgbox "ok"
 End Sub
